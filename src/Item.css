@@ -1,0 +1,18 @@
+.promItem {
+    width: 516px;
+    height: 291px;
+    border: none;
+    margin: 24px 125px 24px 149px;
+    background-image: url(https://gw.alicdn.com/tfs/TB1oR2MobH1gK0jSZFwXXc7aXXa-526-291.png);
+    padding: 14px 0 0 6px;
+    font-family: 'Microsoft YaHei';
+}
+.promItem .ant-card-body {
+    padding:24px;
+}
+.promItem .ant-card-body img:hover {
+    border: 2px solid #f84f32;
+}
+.itemText {
+    width: 228px;
+}
